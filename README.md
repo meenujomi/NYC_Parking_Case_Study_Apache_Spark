@@ -1,4 +1,4 @@
-# Clustering-PCA
+# NYC Parking Case Study:Apache Spark
 ## Objective
 Big data analytics allows you to analyse data at scale. It has applications in almost every industry in the world. Let’s consider an unconventional application that you wouldn’t ordinarily encounter.
 New York City is a thriving metropolis. Just like most other metros its size, one of the biggest problems its citizens face is parking. The classic combination of a huge number of cars and cramped geography leads to a huge number of parking tickets.
